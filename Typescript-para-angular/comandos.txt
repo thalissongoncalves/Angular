@@ -5,3 +5,7 @@ npm install typescript -D (usado para instalar o typescript em modo Desenvolvime
 npx tsc --init (Cria um arquivo de configuração de como o typescript vai se comportar):
     defina o "rootDir": "./src"
     defina o "outDir": "./build"
+
+npm install ts-node-dev -D (servidor local que entende typescript, serve para te mostrar o resultado em tempo real após alterações no código, igual node js)
+    defina no package.json em scripts "start:dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+
