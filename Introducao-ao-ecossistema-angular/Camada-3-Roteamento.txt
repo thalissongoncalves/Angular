@@ -1,0 +1,11 @@
+Routes ou Routing & Navigation:
+    Responsável pela forma de navegar fazendo a troca de URL sem Recarregar a página, mudando somente os componentes que são mostrados.
+
+meuapp/login
+meuapp/home
+
+Exemplos de bibliotecas:
+    History API
+    React-Router
+    Vue-Router
+    Angular RoutingModule

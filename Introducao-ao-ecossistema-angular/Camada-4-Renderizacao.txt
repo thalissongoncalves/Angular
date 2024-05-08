@@ -1,0 +1,9 @@
+Render:
+    Responsável por decidir a melhor maneira de acessar e entregar para o browser o componente pronto para que ele seja desenhado na janela sem complicações
+
+ROUTES, COMPONENTS, STATES > Render > Navegador.
+
+Existem 3 tipos principais estratégias de renderização:
+    - 100% Server
+    - Parte Server e parte Client
+    - 100% Client

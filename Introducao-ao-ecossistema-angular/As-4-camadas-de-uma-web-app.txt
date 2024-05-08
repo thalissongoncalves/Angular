@@ -1,0 +1,4 @@
+- Componentes;
+- Gerenciamento de Estado;
+- Roteamento;
+- Renderização;

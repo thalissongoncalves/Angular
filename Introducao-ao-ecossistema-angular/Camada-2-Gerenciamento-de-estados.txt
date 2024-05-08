@@ -1,0 +1,5 @@
+states:
+    Responsável por garantir que as informações dos componentes não estão dessincronizacadas e facilitar a comunicação de um componente com outro.
+
+Exemplo:
+    Atualizar carrinho de compras ao clicar no botão de comprar de um produto.

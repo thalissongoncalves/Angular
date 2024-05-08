@@ -1,0 +1,3 @@
+Componente é um elemento visual, customizável e reutilizável
+
+Exemplo: um card na tela, botão
